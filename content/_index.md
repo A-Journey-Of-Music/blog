@@ -21,5 +21,6 @@ For the Scope of the lecture, we want create 3 Levels (Classical, Rock'n Roll an
 
 ## Blog Entries
 - [First Blog entry!](notes/First%20Blog%20entry!.md)
+- [Plans for next week](notes/Plans%20for%20next%20week.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly workhours [here](notes/Times.md).
