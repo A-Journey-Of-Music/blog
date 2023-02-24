@@ -1,6 +1,6 @@
 ---
 title: Blog Setup
-comments = false
+comments: false
 ---
 This is a How-to Article for quickly setting up a blog with [Quartz](https://quartz.jzhao.xyz/) and [Obsidian.md](obsidian.md).
 
