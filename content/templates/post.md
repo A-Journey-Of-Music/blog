@@ -1,4 +1,4 @@
 ---
 title: "{{title}}"
-comments = false
+comments: false
 ---

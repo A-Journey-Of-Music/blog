@@ -8,3 +8,6 @@ Firstly Marvin and I want to thank [Quartz](https://quartz.jzhao.xyz/) for their
 We want to use the Occasion to explain how we run it. 
 
 More Information you will find [here](notes/Blog%20Setup.md)!
+
+As requested, we will also List our hours, on how long we worked on the Project. 
+You can find our times [here](notes/Times.md)!
