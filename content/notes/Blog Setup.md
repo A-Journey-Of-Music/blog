@@ -16,3 +16,9 @@ Firstly, visit [Quartz](https://quartz.jzhao.xyz/) and follow their Setup-Guide.
 Always renember to Push into the `hugo`-Branch
 
 If you have done that, do some configuration and try pushing some notes to it. 
+
+> [!attention]
+> In Germany hosting your fonts with Google-Fonts isn't allowed by law and could be fined.
+> You can just host your own fonts. For that I would make a cross-reference to [Momolem's Blog](https://blog.vogel.business/Using-local-Google-Fonts-in-Hugo/) where he explains the changes you have to make, to make this work.
+
+
