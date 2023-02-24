@@ -1,7 +1,6 @@
 baseURL = "https://blog.newmanity.eu/"
 languageCode = "en-us"
 relativeURLs = false
-theme = "paper"
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
@@ -11,20 +10,6 @@ ignoreFiles = [
 summaryLength = 20
 paginate = 10
 enableGitInfo = true
-
-[params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
-
-  # header social icons
-  twitter = 'twitter.com/iNewmanity'               # twitter.com/YOUR_TWITTER_ID
-  github = 'github.com/iNewmanity'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'instagram.com/iNewmanity'           # instagram.com/YOUR_INSTAGRAM_ID 
-  rss = false                               # show rss icon
-
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true                       # show monochrome dark mode icon
 
 [markup]
     [markup.tableOfContents]
@@ -47,3 +32,19 @@ enableGitInfo = true
         publishDate = ["publishDate", "date"]
     [markup.goldmark.renderer]
         unsafe = true
+
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'twitter.com/iNewmanity'               # twitter.com/YOUR_TWITTER_ID
+  github = 'github.com/iNewmanity'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'instagram.com/iNewmanity'           # instagram.com/YOUR_INSTAGRAM_ID 
+  rss = false                               # show rss icon
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true  
