@@ -33,18 +33,38 @@ enableGitInfo = true
     [markup.goldmark.renderer]
         unsafe = true
 
-theme = "paper"
+theme = "hugo-coder"
 
 [params]
-  # color style
-  color = 'linen'                           # linen, wheat, gray, light
+  author = "A Journey of Music"
+  info = "Blog for a Game developed at DHBW Karlsruhe"
+  description = "Blog for a Game developed at DHBW Karlsruhe"
+  keywords = "blog,developer,team"
 
-  # header social icons
-  twitter = 'twitter.com/iNewmanity'               # twitter.com/YOUR_TWITTER_ID
-  github = 'github.com/iNewmanity'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'instagram.com/iNewmanity'           # instagram.com/YOUR_INSTAGRAM_ID 
-  rss = false                               # show rss icon
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
 
-  # misc
-  disableHLJS = true                        # disable highlight.js
-  monoDarkIcon = true  
+  since = 2023
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "content/_index.d"
+[[menu.main]]
+  name = "Impressum"
+  weight = 2
+  url = "content/notes/impressum.md"
