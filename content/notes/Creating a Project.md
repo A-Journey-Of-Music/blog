@@ -11,4 +11,4 @@ For Jan, the solution on Fedora being:
 dotnet new mgdesktopgl -o AJourneyOfMusic
 ```
 
-To read, how Jan got the MGCB Editor to run on Linux, read here.
+To read, how Jan got the MGCB Editor to run on Linux, read [here](notes/Getting%20MGCB%20Editor%20to%20work%20on%20Linux.md).
