@@ -25,6 +25,7 @@ For the Scope of the lecture, we want create 3 Levels (Classical, Rock'n Roll an
 - [Setting up MonoGame for development](notes/Setting%20up%20MonoGame%20for%20development.md)
 - [Creating a Project](notes/Creating%20a%20Project.md)
 - [Getting MGCB Editor to work on Linux](notes/Getting%20MGCB%20Editor%20to%20work%20on%20Linux.md)
+- [First Steps with MonoGame](notes/First%20Steps%20with%20MonoGame.md)
 
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly workhours [here](notes/Times.md).
