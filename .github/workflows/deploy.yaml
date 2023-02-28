@@ -23,26 +23,31 @@ jobs:
         run: sudo apt-get install -y imagemagick
       - name: Convert images to WebP
         run: |
+          if ls content/notes/images/*.png 1> /dev/null 2>&1; then
           for file in content/notes/images/*.png; do
             convert "$file" "${file%.*}.webp"
             rm "$file"
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\)/.webp/g'
           done
+          else if ls content/notes/images/*.jpg 1> /dev/null 2>&1; then
           for file in content/notes/images/*.jpg; do
             convert "$file" "${file%.*}.webp"
             rm "$file"
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpg\)/.webp/g'
           done
+          else if ls content/notes/images/*.jpeg 1> /dev/null 2>&1; then  
           for file in content/notes/images/*.jpeg; do
             convert "$file" "${file%.*}.webp"
             rm "$file"
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpeg\)/.webp/g'
           done
+          else if ls content/notes/images/*.svg 1> /dev/null 2>&1; then
           for file in content/notes/images/*.svg; do
             convert "$file" "${file%.*}.webp"
             rm "$file"
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(svg\)/.webp/g'
           done
+          fi
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
