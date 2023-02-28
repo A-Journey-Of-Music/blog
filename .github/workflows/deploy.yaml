@@ -22,6 +22,7 @@ jobs:
       - name: Install ImageMagick
         run: sudo apt-get install -y imagemagick
       - name: Convert images to WebP
+        continue-on-error: true
         run: |
           for file in content/notes/images/*.png; do
             convert "$file" "${file%.*}.webp"
@@ -29,6 +30,7 @@ jobs:
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\)/.webp/g'
           done
       - name: Convert jpg to WebP
+        continue-on-error: true
         run: |
           for file in content/notes/images/*.jpg; do
             convert "$file" "${file%.*}.webp"
@@ -36,6 +38,7 @@ jobs:
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpg\)/.webp/g'
           done
       - name: Convert jpeg to WebP
+        continue-on-error: true
         run: |
           for file in content/notes/images/*.jpeg; do
             convert "$file" "${file%.*}.webp"
@@ -43,6 +46,7 @@ jobs:
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpeg\)/.webp/g'
           done
       - name: Convert svg to WebP
+        continue-on-error: true
         run: |
           for file in content/notes/images/*.svg; do
             convert "$file" "${file%.*}.webp"
