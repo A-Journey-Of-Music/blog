@@ -13,6 +13,7 @@ The Game functions like a typical platformer-game (Super Mario, Rayman Legends),
 
 ## Technology
 ![](notes/images/monogame_logo.webp)
+
 We want to use [Monogame](https://www.monogame.net/showcase/) as our Game Engine, as it is perfectly suitable for 2d games and has some well known titles like [Terraria](https://terraria.org/) or [Stardew Valley](https://www.stardewvalley.net/) amongst its users.
 We want our game to be highly compatible with every mainstream pc operating system (Windows, MacOs, Linux) and playable by controller.
 
