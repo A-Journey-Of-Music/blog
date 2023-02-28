@@ -8,8 +8,8 @@ Hey there,
 this is our blog accompanying the development of our games lecture project.
 
 ## What is the Game about?
-Our Game is about a student who falls asleep and finding himself on a journey through musical history. 
-The Game functions like a typical platformer-game (Super Mario, Rayman Legends), but with rythm. If the player responds to the rythm he will suceed in the level. This idea is highly inspirated by the "Musical Levels" from Rayman Legends. You can have a taste [here](https://www.youtube.com/watch?v=yT6XOfy2gEE).
+Our Game is about a student who falls asleep and finds himself on a journey through musical history. 
+The Game functions like a typical platformer-game (Super Mario, Rayman Legends), but with rythm. If the player responds to the rythm he will suceed in the level. This idea is highly inspired by the "Musical Levels" from Rayman Legends. You can have a taste [here](https://www.youtube.com/watch?v=yT6XOfy2gEE).
 
 ## Technology
 ![](notes/images/monogame_logo.svg)
