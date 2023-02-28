@@ -12,7 +12,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
-          ref: 'hugo'
+          ref: "hugo"
       - name: Save original Markdown files
         uses: actions/upload-artifact@v2
         with:
@@ -23,25 +23,26 @@ jobs:
         run: sudo apt-get install -y imagemagick
       - name: Convert images to WebP
         run: |
-          if ls content/notes/images/*.{png,jpg,jpeg,svg} 1> /dev/null 2>&1; then
-            for file in content/notes/images/*.png; do
-              convert "$file" "${file%.*}.webp"
-              rm "$file"
-            done
-            for file in content/notes/images/*.jpg; do
-              convert "$file" "${file%.*}.webp"
-              rm "$file"
-            done
-            for file in content/notes/images/*.jpeg; do
-              convert "$file" "${file%.*}.webp"
-              rm "$file"
-            done
-            for file in content/notes/images/*.svg; do
-              convert "$file" "${file%.*}.webp"
-              rm "$file"
-            done
-            find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\|jpg\|jpeg\|svg\)/.webp/g'
-          fi
+          for file in content/notes/images/*.png; do
+            convert "$file" "${file%.*}.webp"
+            rm "$file"
+            find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\)/.webp/g'
+          done
+          for file in content/notes/images/*.jpg; do
+            convert "$file" "${file%.*}.webp"
+            rm "$file"
+            find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpg\)/.webp/g'
+          done
+          for file in content/notes/images/*.jpeg; do
+            convert "$file" "${file%.*}.webp"
+            rm "$file"
+            find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpeg\)/.webp/g'
+          done
+          for file in content/notes/images/*.svg; do
+            convert "$file" "${file%.*}.webp"
+            rm "$file"
+            find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(svg\)/.webp/g'
+          done
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
