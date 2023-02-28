@@ -6,6 +6,40 @@ on:
       - hugo
 
 jobs:
+  convert_images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: 'hugo'
+          path: 'blog'
+      - name: Save original Markdown files
+        uses: actions/upload-artifact@v2
+        with:
+          name: original-markdown-files
+          path: blog/content/
+          if-no-files-found: error
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
+      - name: Convert images to WebP
+        run: |
+          for file in blog/content/images/*.{png,jpg,jpeg,svg}; do
+            convert "$file" "${file%.*}.webp"
+            rm "$file"
+          done
+          find blog/content -path blog/content/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\|jpg\|jpeg\|svg\)/.webp/g'
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.2.2
+        with:
+          commit_message: "Convert images to WebP format"
+          path: blog/
+      - name: Save converted Markdown files
+        uses: actions/upload-artifact@v2
+        with:
+          name: converted-markdown-files
+          path: blog/content/
+          if-no-files-found: continue
   deploy:
     runs-on: ubuntu-20.04
     steps:
