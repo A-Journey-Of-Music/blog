@@ -7,7 +7,7 @@ on:
 
 jobs:
   convert_images:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -23,7 +23,7 @@ jobs:
         run: sudo apt-get install -y imagemagick
       - name: Convert images to WebP
         run: |
-          for file in "content/notes/images/*.{png,jpg,jpeg,svg}"; do
+          for file in content/notes/images/*.{png,jpg,jpeg,svg}; do
             convert "$file" "${file%.*}.webp"
             rm "$file"
           done
