@@ -28,7 +28,7 @@ jobs:
             convert "$file" "${file%.*}.webp"
             rm "$file"
           done
-          find blog/content -path blog/content/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\|jpg\|jpeg\|svg\)/.webp/g'
+          find blog/content -path blog/content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\|jpg\|jpeg\|svg\)/.webp/g'
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
