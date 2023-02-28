@@ -14,7 +14,7 @@ dotnet tool restore
 ```
 
 If your output looks like this, you've succeeded!
-![](notes/images/Pasted%20image%2020230225171434.png)
+![](notes/images/Pasted%20image%2020230225171434.webp)
 
 Now you can easily open it with the command 
 ```zsh
@@ -25,6 +25,6 @@ Or, in Jan's Case
 mgcb-editor-linux
 ```
 
-![](notes/images/Pasted%20image%2020230225171754.png)
+![](notes/images/Pasted%20image%2020230225171754.webp)
 
 Great Success!!!
