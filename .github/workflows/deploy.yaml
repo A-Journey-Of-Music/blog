@@ -41,7 +41,6 @@ jobs:
               rm "$file"
             done
             find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(png\|jpg\|jpeg\|svg\)/.webp/g'
-          else
           fi
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4.16.0
