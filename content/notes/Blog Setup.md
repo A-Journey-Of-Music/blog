@@ -2,7 +2,7 @@
 title: Blog Setup
 comments: false
 ---
-This is a How-to Article for quickly setting up a blog with [Quartz](https://quartz.jzhao.xyz/) and [Obsidian.md](obsidian.md).
+This is a How-to Article for quickly setting up a blog with [Quartz](https://quartz.jzhao.xyz/) and [Obsidian.md](https://obsidian.md).
 
 # Prerequisites
 1. Obsidian installed on your local machine (because Quartz is Markdown-based)
