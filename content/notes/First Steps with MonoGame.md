@@ -2,7 +2,7 @@
 title: First Steps with MonoGame
 comments: false
 ---
-![](notes/images/Pasted%20image%2020230226174657.png)
+![](notes/images/Pasted%20image%2020230226174657.webp)
 We can announce, that we have made first steps in MonoGame (literally!).
 
 We can move the character up and down, left and right, by inputting the keyboard.
