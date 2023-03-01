@@ -9,7 +9,7 @@ One diagnostic point Lighthouse had mentioned was, that pictures were shipped in
 
 As we delivered our blog through a [Github Actions-Pipeline](https://github.com/features/actions), we thought of an additional step, to automatically convert all images in the `images`-folder, to be converted into .webp
 We implemented the following step:
-```yaml
+```
 convert_images:
 	runs-on: ubuntu-20.04
 	steps:
