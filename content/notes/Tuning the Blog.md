@@ -78,6 +78,7 @@ convert_images:
 ```
 
 [Full Source](https://github.com/A-Journey-Of-Music/blog/blob/hugo/.github/workflows/deploy.yaml)
+
 Now, all images, we use, are converted into **.webp** and the references in the markdown files are automatically changed aswell.
 
 Now we reach the following Lighthouse Score:
