@@ -1,6 +1,7 @@
 ---
 title: First Steps with MonoGame
 comments: false
+tags: Game
 ---
 ![](notes/images/Pasted%20image%2020230226174657.webp)
 We can announce, that we have made first steps in MonoGame (literally!).

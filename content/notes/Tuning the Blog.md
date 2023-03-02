@@ -1,6 +1,7 @@
 ---
 title: Tuning the Blog
 comments: false
+tags: Blog
 ---
 While the development of the game is underway, we want to share our newest developments to this blog. 
 As you know, this blog is based on [Quartz](https://quartz.jzhao.xyz/), which is based on [Hugo](https://gohugo.io/).

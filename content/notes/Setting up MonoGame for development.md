@@ -1,6 +1,7 @@
 ---
 title: Setting up Monogame for development
 comments: false
+tags: Game
 ---
 Before any Game could be implemented, there is a setup for the development environment todo. Of course you could just follow the [Setup-Guide](https://docs.monogame.net/articles/getting_started/0_getting_started.html) at MonoGame's website.
 
