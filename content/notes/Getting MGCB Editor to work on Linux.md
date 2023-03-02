@@ -3,7 +3,7 @@ title: Getting MGCB Editor to work on Linux
 comments: false
 tags: Game
 ---
-To add media to your project MonoGame uses a proprietary file format to map the media to game entities. 
+To add media to your project, MonoGame uses a proprietary file format to map the media to game entities. 
 To edit the specified file, you need an editor, which runs in your project folder (!!!).
 In your project folder, you have to run the following commands:
 ```zsh

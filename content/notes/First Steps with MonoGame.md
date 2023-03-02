@@ -12,4 +12,4 @@ Today we took a look at [MonoGame.Extended](https://www.monogameextended.net/) o
 We successfully can now import `.ase` and `.aseprite` Files with the [MGCB-Editor](notes/Getting%20MGCB%20Editor%20to%20work%20on%20Linux.md).
 We expect the first Animations to work tomorrow, after some fixing and reading the documentation :).
 
-We do also plan to explain the process of adding libraries to the MonoGame project.
+Furthermore, we do also plan to explain the process of adding libraries to the MonoGame project.
