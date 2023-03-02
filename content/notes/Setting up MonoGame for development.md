@@ -13,11 +13,11 @@ As MonoGame is based on Microsoft's Mono and XDA libraries you have to install [
 ## Install Visual Studio Code
 Of course you can get any Code-Editor to somehow work with MonoGame, but for Jan [Visual Studio Code](https://code.visualstudio.com/download) was the obvious choice, as it is tightly integrated with MonoGame.
 Here, you can also add plugins to support your development:
-1. C# extension ```
+1. C# extension 
 ```zsh
 code --install-extension ms-dotnettools.csharp
 ```
-2. MonoGame Content Builder ```
+2. MonoGame Content Builder 
 ```zsh
 code --install-extension mgcb-vscode.mgcb-vscode
 ```
