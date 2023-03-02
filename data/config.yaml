@@ -10,7 +10,7 @@ enableSPA: true
 enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 enableMermaid: true
 search:
   enableSemanticSearch: false
@@ -21,13 +21,7 @@ description:
 page_title:
   "A Journey of Music"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/inewmanity
-  - link_name: Instagram
-    link: https://instagram.com/inewmanity
   - link_name: GitHub
-    link: https://github.com/inewmanity
-  - link_name: GitLab
-    link: https://gitlab.com/inewmanity
+    link: https://github.com/A-Journey-Of-Music
   - link_name: Impressum
     link: https://blog.newmanity.eu/notes/Impressum/
