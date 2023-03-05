@@ -4,12 +4,28 @@ enableToc: false
 ---
 
 #  A Journey of Music
-Hey there,
-this is our blog accompanying the development of our games lecture project.
+Greetings everyone,
+
+We are thrilled to invite you to join us in our exciting journey towards the development of our games lecture project. Our team has been working tirelessly to bring you an interactive and engaging experience that will showcase the very best of game development.
+
+As technology advances, the gaming industry continues to flourish, captivating audiences of all ages across the globe. With this in mind, we are eager to delve deeper into the world of game development and explore the intricacies of this ever-evolving field.
+
+We are pleased to announce that our lecture will be taking place at DHBW Karlsruhe, where we, as a team, will be discussing everything from the basics of game design to the latest trends in the industry. We are passionate about sharing our knowledge and expertise with you, providing valuable insights that will not only enhance your gaming experience, but also open doors to potential career opportunities.
+
+So, whether you are a seasoned gamer or simply curious about the world of game development, join us for an informative and engaging session that will leave you feeling inspired and empowered.
+
+Stay tuned for more updates and exciting news about our games lecture project. We look forward to seeing you there!
 
 ## What is the Game about?
-Our Game is about a student who falls asleep and finds himself on a journey through musical history. 
-The Game functions like a typical platformer-game (Super Mario, Rayman Legends), but with rhythm. If the player responds to the rhythm he will succeed in the level. This idea is highly inspired by the “Musical Levels” from Rayman Legends. You can have a taste [here](https://www.youtube.com/watch?v=yT6XOfy2gEE).
+Get ready to embark on a rhythmic adventure unlike any other! Our game project takes you on a journey through musical history, where you'll join a student on an epic quest after falling asleep.
+
+The game functions like a typical platformer-game such as Super Mario or Rayman Legends, but with a musical twist. To succeed in each level, players must respond to the rhythm of the music. It's a unique concept that was highly inspired by the “Musical Levels” in Rayman Legends, but we've taken it to a whole new level.
+
+With each level, you'll encounter new musical genres and iconic artists that shaped the world of music. From the swinging jazz of the 1920s to the electrifying rock of the 80s, you'll experience the beats and melodies that defined each era.
+
+The graphics are stunning, with each level featuring its own distinct visual style that perfectly complements the music. The controls are intuitive and easy to pick up, but mastering the rhythm takes skill and practice.
+
+We're confident that our game will provide hours of entertainment for both casual and hardcore gamers alike. So, get ready to put your rhythm skills to the test and join us on this epic musical journey. You can have a taste [here](https://www.youtube.com/watch?v=yT6XOfy2gEE).
 
 ## Technology
 ![](notes/images/monogame_logo.webp)
@@ -18,7 +34,13 @@ We want to use [Monogame](https://www.monogame.net/showcase/) as our Game Engine
 We want our game to be highly compatible with every mainstream pc operating system (Windows, macOS, Linux) and playable by controller.
 
 ## Scope
-For the Scope of the lecture, we want to create 3 Levels (Classical, Rock'n Roll and Hip Hop) by hand and work on an algorithm, which can analyse music and create levels automatically.
+Get ready to witness the ultimate combination of music and technology! In our lecture project, we aim to create an unforgettable experience by developing 3 handcrafted levels - Classical, Rock'n Roll, and Hip Hop. But that's not all - we'll also be working on an algorithm that can analyze music and generate levels automatically.
+
+We are passionate about exploring the intersection of music and technology. By handcrafting levels in three distinct genres, we'll showcase the artistry of game design while highlighting the unique characteristics of each music genre. But we won't stop there - we'll also be using cutting-edge algorithms to generate levels automatically, bringing a new level of excitement and challenge to the game.
+
+Our lecture project is the perfect opportunity to delve deeper into the world of music and technology. With each level, you'll discover new sounds and rhythms that will keep you hooked. And with the algorithm in place, the game will constantly evolve, providing a never-ending stream of fresh challenges.
+
+So, whether you're a music enthusiast or a tech buff, our project has something for everyone. Join us as we explore the limitless possibilities of music and technology, and experience a game like no other.
 
 ## Blog Entries
 - [First Blog entry!](notes/First%20Blog%20entry!.md)
