@@ -10,7 +10,7 @@ We are thrilled to invite you to join us in our exciting journey towards the dev
 
 As technology advances, the gaming industry continues to flourish, captivating audiences of all ages across the globe. With this in mind, we are eager to delve deeper into the world of game development and explore the intricacies of this ever-evolving field.
 
-We are pleased to announce that our lecture will be taking place at DHBW Karlsruhe, where we, as a team, will be discussing everything from the basics of game design to the latest trends in the industry. We are passionate about sharing our knowledge and expertise with you, providing valuable insights that will not only enhance your gaming experience, but also open doors to potential career opportunities.
+We are pleased to announce that our lecture will be taking place at [DHBW Karlsruhe](https://www.karlsruhe.dhbw.de/startseite.html), where we, as a team, will be discussing everything from the basics of game design to the latest trends in the industry. We are passionate about sharing our knowledge and expertise with you, providing valuable insights that will not only enhance your gaming experience, but also open doors to potential career opportunities.
 
 So, whether you are a seasoned gamer or simply curious about the world of game development, join us for an informative and engaging session that will leave you feeling inspired and empowered.
 
