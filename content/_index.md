@@ -22,14 +22,14 @@ For the Scope of the lecture, we want to create 3 Levels (Classical, Rock'n Roll
 
 ## Blog Entries
 - [First Blog entry!](notes/First%20Blog%20entry!.md)
-- [Plans No. 1](notes/Plans%20No.%201.md)
+- [Plans No. 1](notes/Plans%20Number%201.md)
 - [Setting up MonoGame for development](notes/Setting%20up%20MonoGame%20for%20development.md)
 - [Creating a Project](notes/Creating%20a%20Project.md)
 - [Getting MGCB Editor to work on Linux](notes/Getting%20MGCB%20Editor%20to%20work%20on%20Linux.md)
 - [First Steps with MonoGame](notes/First%20Steps%20with%20MonoGame.md)
 - [The software you need!](notes/The%20software%20you%20need!.md)
 - [Tuning the Blog](notes/Tuning%20the%20Blog.md)
-- [Review No. 1](notes/Review%20No.%201.md)
-- [Plans No. 2](notes/Plans%20No.%202.md)
+- [Review No. 1](notes/Review%20Number%201.md)
+- [Plans No. 2](notes/Plans%20Number%202.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).

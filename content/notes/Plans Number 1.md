@@ -13,4 +13,4 @@ That's why we came up with some objectives for the weekend and next week:
 - Further Concept improvements that will be announced on the [main site](blog.newmanity.eu)
 - (maybe) A first approach at platform mechanics and platform levels 
 
-See our [review](notes/Review%20No.%201.md) of this week's plans
+See our [review](notes/Review%20Number%201.md) of this week's plans
