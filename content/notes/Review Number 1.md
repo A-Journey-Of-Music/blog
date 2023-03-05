@@ -7,7 +7,7 @@ As we described our goals for the [last week](notes/Plans%20Number%201.md) last 
 
 ## Designing a logo and design for the game and blog
 
-![](notes/images/Pasted%20image%2020230304171946.png)
+![](notes/images/Pasted%20image%2020230304171946.webp)
 
 This is our freshly designed logo for the game and blog. It represents our approach to our simplicity and the musical theme of our game. We may improve this along the way, but for now it represents the identity of this project.
 
