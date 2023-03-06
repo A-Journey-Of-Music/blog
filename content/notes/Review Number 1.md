@@ -17,7 +17,7 @@ Both of us believe in learning by doing, so the game enhances nearly every time 
 In our upcoming update, we will describe the process of refactoring the game in an object-oriented approach.
 
 ## Final Decision on whether we use MonoGame or Godot
-We finalized our decision to go with MonoGame, as it is the most fitting game engine, for our scope. We will tell you more about it in an upcoming blog entry, on why we didn't want to go with [Unity](https://unity.com)or [Unreal](https://www.unrealengine.com).
+We finalized our decision to go with MonoGame, as it is the most fitting game engine, for our scope. We will tell you more about it in an upcoming blog entry, on why we didn't want to go with [Unity](https://unity.com) or [Unreal](https://www.unrealengine.com).
 
 ## Enhancing of our Game Concept.
 This goal was cut short this week, but we will do it in the upcoming week, we promise ;).
