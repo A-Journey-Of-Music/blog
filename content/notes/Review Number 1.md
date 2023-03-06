@@ -1,7 +1,10 @@
 ---
 title: Review No. 1
 comments: false
-tags: Management
+tags: 
+- Management
+- Planning
+- Review
 ---
 As we described our goals for the [last week](notes/Plans%20Number%201.md) last weekend, we wanted to review our ongoings and also updating you on our [plans for next week](notes/Plans%20Number%202.md)!
 

@@ -1,7 +1,9 @@
 ---
 title: Times
 comments: false
-tags: Management
+tags: 
+- Management
+- Planning
 ---
 
 | Week             | Jan (in hours) | Marvin (in hours) |

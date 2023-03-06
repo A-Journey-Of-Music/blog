@@ -1,7 +1,8 @@
 ---
 title: The software you need!
 comments: false
-tags: Game
+tags: 
+- Game
 ---
 As we went with [Monogame](https://www.monogame.net/) as our Game Engine, we need a lot of external tools around it, as Monogame itself only comes with the [MGCB-Editor](notes/Getting%20MGCB%20Editor%20to%20work%20on%20Linux.md) as an image preprocessor.
 

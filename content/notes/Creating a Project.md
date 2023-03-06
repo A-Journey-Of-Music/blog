@@ -1,7 +1,9 @@
 ---
 title: Creating a Project
 comments: false
-tags: Game
+tags: 
+- Game
+- Tutorial
 ---
 To create a MonoGame project, you have to navigate into your project folder and fill this template with the correct arguments:
 ```zsh
