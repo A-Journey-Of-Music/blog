@@ -4,6 +4,7 @@ comments: false
 tags: 
 - Game
 - Blog
+keywords: [MonoGame, Character movement, Keyboard input, Animation, MonoGame.Extended, MonoGame.Aseprite, Aseprite Editor, Sprite animations, MGCB Editor, Importing files, Documentation, Library integration, Game development, Cross-platform development, Programming, Coding, Learning, Development process, Project updates]
 ---
 ![](notes/images/Pasted%20image%2020230226174657.webp)
 We can announce, that we have made first steps in MonoGame (literally!).

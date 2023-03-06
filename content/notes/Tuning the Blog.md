@@ -4,6 +4,7 @@ comments: false
 tags: 
 - Blog
 - Tutorial
+keywords: [development, game, blog, Quartz, Hugo, Google Lighthouse, performance rating, pictures, formats, .webp, Github Actions-Pipeline, convert images, ImageMagick, markdown files, png, jpg, jpeg, svg, commit changes, Lighthouse Score]
 ---
 While the development of the game is underway, we want to share our newest developments to this blog. 
 As you know, this blog is based on [Quartz](https://quartz.jzhao.xyz/), which is based on [Hugo](https://gohugo.io/).

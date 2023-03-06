@@ -3,6 +3,7 @@ title: First Blog entry
 comments: false
 tags: 
 - Blog
+keywords: [Games lecture, DHBW Karlsruhe, Blog, A Journey of Music, Development, Quartz template, Project management, Time tracking, Hours worked, Progress updates, Gaming industry, Video games, Music games, Game design, Game development process, Learning game development, Higher education in game design, Teamwork in game development]
 ---
 Hey there,
 For our games lecture at DHBW Karlsruhe we have to run a blog, where we tell you about our findings and development of our game “A Journey of Music”.

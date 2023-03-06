@@ -4,6 +4,7 @@ comments: false
 tags: 
 - Game
 - Tutorial
+keywords: [MonoGame, development environment, setup, Setup-Guide, Linux, Fedora, Windows, operating system, Linux-Guide, .Net 6 SDK, Microsoft, Mono, XNA, Visual Studio Code, code editor, plugins, C# extension, MonoGame Content Builder, CLI, templates, Wine, effects, game, project]
 ---
 Before any Game could be implemented, there is a setup for the development environment to do. Of course, you could just follow the [Setup-Guide](https://docs.monogame.net/articles/getting_started/0_getting_started.html) at MonoGame's website.
 

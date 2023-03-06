@@ -4,6 +4,7 @@ comments: false
 tags: 
 - Game
 - Tutorial
+keywords: [MonoGame project, Template, Arguments, Project folder, dotnet new command, TemplateID, Project name, Fedora, mgdesktopgl, AJourneyOfMusic, MGCB Editor, Linux, Getting MGCB Editor to work on Linux, Linux development, Game development on Linux, Cross-platform game development, Programming, Coding]
 ---
 To create a MonoGame project, you have to navigate into your project folder and fill this template with the correct arguments:
 ```zsh

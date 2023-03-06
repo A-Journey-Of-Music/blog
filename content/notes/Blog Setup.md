@@ -4,6 +4,7 @@ comments: false
 tags: 
 - Blog
 - Tutorial
+keywords: [How-to article, Setting up a blog, Quartz, Obsidian.md, Prerequisites, Markdown-based, GitHub account, Git, Setup guide, Configuration, Pages tab, Repository, Hugo branch, Hosting fonts, Google Fonts, Cross-reference, Momolem's Blog, Local Google Fonts, German law, Fines, Blogging, Website setup, Content creation, Knowledge of GitHub, Knowledge of Git]
 ---
 This is a How-to Article for quickly setting up a blog with [Quartz](https://quartz.jzhao.xyz/) and [Obsidian.md](https://obsidian.md).
 
