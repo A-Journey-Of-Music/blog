@@ -1,6 +1,7 @@
 ---
 title: A Journey of Music
 enableToc: false
+keywords: [rhythmic adventure, musical history, platformer-game, musical twist, Rayman Legends, music genres, iconic artists, stunning graphics, intuitive controls, immersive, engaging experience, casual gamer, hardcore gamer, rhythm skills, music, technology, handcrafted levels, Classical, Rock'n Roll, Hip Hop, algorithm, game design, cutting-edge, excitement, challenge, sounds, rhythms, music enthusiast, tech buff, limitless possibilities]
 ---
 
 #  A Journey of Music
