@@ -10,7 +10,7 @@ As we concluded [last week's](notes/Plans%20Number%201.md) plans in our [weekly 
 ## To-do's
 - Further refactoring of the game's code
 - Implementation of physics and platform mechanics
-- Improve Concept (originally planned last week)
+- [Improve Concept (originally planned last week)](notes/Movement%20and%20Game%20Mechanics.md)
 - Controller support
 - Sprite animations
 
