@@ -24,19 +24,19 @@ If a player does die, they are given the chance to start over, with the game dis
 
 ### Running
 
-![](notes/images/Running.png)
+![](notes/images/Running.webp)
 
 The running mechanic in "A Journey of Music" is a fundamental aspect of the gameplay experience. To move the character to the right, players can either press the "D" key on their keyboard or the right arrow button. Alternatively, players can move the left thumb stick on their controller to the right, allowing for a more intuitive and responsive control scheme.
 
 ### Jumping
 
-![](notes/images/SingleJump.png)
+![](notes/images/SingleJump.webp)
 
 The jumping mechanic in "A Journey of Music" allows players to navigate obstacles and enemies by leaping over them. To jump, players can either press the "Space" key on their keyboard or the "A" or "X" button on their controller, depending on their platform of choice. This mechanic requires careful timing and precision to master, adding an element of challenge and excitement to the gameplay experience.
 
 ### Double Jump
 
-![](notes/images/DoubleJump.png)
+![](notes/images/DoubleJump.webp)
 
 Double jumping is a powerful technique in "A Journey of Music" that allows players to reach higher platforms and avoid obstacles with ease. To perform a double jump, players need to first execute a regular jump by pressing the "Space" key on their keyboard or the "A" or "X" button on their controller. Just before the initial jump ends, the player can press the same button again to execute a second jump, propelling them even higher.
 
@@ -44,13 +44,13 @@ Timing is crucial when performing a double jump, as pressing the button too earl
 
 ### Sliding
 
-![](notes/images/Sliding.png)
+![](notes/images/Sliding.webp)
 
 Sliding is a key mechanic in "A Journey of Music" that allows players to dodge obstacles and enemies by quickly sliding under them. To slide, players can press the "Shift" key on their keyboard or the "Y" and "B" buttons on their controller, depending on their platform of choice. This mechanic requires fast reflexes and careful timing, adding an exciting element of skill-based gameplay to the experience.
 
 ### Jump + Hold
 
-![](notes/images/JumpHold.png)
+![](notes/images/JumpHold.webp)
 The "Jump+Hold" mechanic allows players to slide down ropes and descend to lower areas by holding onto them. To perform a Jump+Hold, players need to execute a regular jump by pressing the "Space" key on their keyboard or the "A" or "X" button on their controller. As the player approaches the rope, they need to press and hold the same button to grab onto it.
 
 Once the player has grabbed onto the rope, they can continue holding the button to slide down the rope. Releasing the button will cause the player to let go of the rope and drop to the ground. This mechanic can be used to descend to lower platforms or avoid obstacles in the player's path.
