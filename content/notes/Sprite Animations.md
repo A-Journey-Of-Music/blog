@@ -16,4 +16,4 @@ Besides other university projects (there's much to do) we had some time to furth
 Now with the spritesheet animation classes established, we can work on physics and levels.
 
 ## Showcase?
-A link to a short YouTube-Video will appear here!
+A link to a short [YouTube-Video](https://youtu.be/8Q_pfNpS3Tk) will appear here!
