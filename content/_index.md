@@ -55,5 +55,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Review No. 1](notes/Review%20Number%201.md)
 - [Plans No. 2](notes/Plans%20Number%202.md)
 - [Movement and Game Mechanics](notes/Movement%20and%20Game%20Mechanics.md)
+- [Sprite Animations](notes/Sprite%20Animations.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).

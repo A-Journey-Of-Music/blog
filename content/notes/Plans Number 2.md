@@ -12,5 +12,5 @@ As we concluded [last week's](notes/Plans%20Number%201.md) plans in our [weekly 
 - Implementation of physics and platform mechanics
 - [Improve Concept (originally planned last week)](notes/Movement%20and%20Game%20Mechanics.md)
 - Controller support
-- Sprite animations
+- [Sprite Animations](notes/Sprite%20Animations.md)
 
