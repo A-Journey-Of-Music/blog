@@ -1,6 +1,7 @@
 ---
 title: Tuning the Blog
 comments: true
+disqus_title: Tuning the Blog
 tags: 
 - Blog
 - Tutorial

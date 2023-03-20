@@ -1,6 +1,7 @@
 ---
 title: Creating a Project
 comments: true
+disqus_title: Creating a Project
 tags: 
 - Game
 - Tutorial

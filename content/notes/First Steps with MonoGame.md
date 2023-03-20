@@ -1,6 +1,7 @@
 ---
 title: First Steps with MonoGame
 comments: true
+disqus_title: First Steps with MonoGame
 tags: 
 - Game
 - Blog

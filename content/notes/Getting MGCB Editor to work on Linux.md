@@ -1,6 +1,7 @@
 ---
 title: Getting MGCB Editor to work on Linux
 comments: true
+disqus_title: Getting MGCB Editor to work on Linux
 tags: 
 - Game
 - Tutorial

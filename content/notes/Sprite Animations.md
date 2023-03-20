@@ -1,6 +1,7 @@
 ---
 title: Sprite Animations
 comments: true
+disqus_title: Sprite Animations
 tags: 
 - Game
 - Tutorial

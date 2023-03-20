@@ -1,6 +1,7 @@
 ---
 title: The software you need!
 comments: true
+disqus_title: The software you need!
 tags: 
 - Game
 ---

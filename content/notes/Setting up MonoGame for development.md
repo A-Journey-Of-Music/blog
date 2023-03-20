@@ -1,6 +1,7 @@
 ---
 title: Setting up Monogame for development
 comments: true
+disqus_title: Setting up Monogame for development
 tags: 
 - Game
 - Tutorial

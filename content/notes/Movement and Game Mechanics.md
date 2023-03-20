@@ -1,6 +1,7 @@
 ---
 title: Movement and Game Mechanics
 comments: true
+disqus_title: Movement and Game Mechanics
 tags:
 - Game
 - Planning

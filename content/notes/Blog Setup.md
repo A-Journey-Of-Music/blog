@@ -1,6 +1,7 @@
 ---
 title: Blog Setup
 comments: true
+disqus_title: Blog Setup
 tags: 
 - Blog
 - Tutorial

@@ -1,6 +1,7 @@
 ---
 title: Game Frameworks
 comments: true
+disqus_title: Game Frameworks
 tags:
 - Game
 - Knowledge
