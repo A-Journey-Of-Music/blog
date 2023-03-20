@@ -1,0 +1,11 @@
+items:
+  - title: YouTube
+    description: This Embed allows users to directly view Youtube-Videos from this site.
+    is_functional: yes
+  - title: Google
+    description: This Embed allows users to directly view Youtube-Videos from this site.
+    is_functional: yes
+  - title: Disqus
+    description: This Service allows users to write comments under a page. User Data will also be send to Disqus.
+    is_functional: no
+    script_file: disqus.html
