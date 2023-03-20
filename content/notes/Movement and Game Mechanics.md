@@ -1,6 +1,6 @@
 ---
 title: Movement and Game Mechanics
-comments: false
+comments: true
 tags:
 - Game
 - Planning

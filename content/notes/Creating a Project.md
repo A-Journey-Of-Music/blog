@@ -1,6 +1,6 @@
 ---
 title: Creating a Project
-comments: false
+comments: true
 tags: 
 - Game
 - Tutorial

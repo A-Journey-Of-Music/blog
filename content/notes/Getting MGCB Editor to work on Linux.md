@@ -1,6 +1,6 @@
 ---
 title: Getting MGCB Editor to work on Linux
-comments: false
+comments: true
 tags: 
 - Game
 - Tutorial

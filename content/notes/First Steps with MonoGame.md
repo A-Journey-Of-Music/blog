@@ -1,6 +1,6 @@
 ---
 title: First Steps with MonoGame
-comments: false
+comments: true
 tags: 
 - Game
 - Blog

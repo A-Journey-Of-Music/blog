@@ -1,6 +1,6 @@
 ---
 title: Tuning the Blog
-comments: false
+comments: true
 tags: 
 - Blog
 - Tutorial

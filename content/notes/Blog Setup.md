@@ -1,6 +1,6 @@
 ---
 title: Blog Setup
-comments: false
+comments: true
 tags: 
 - Blog
 - Tutorial

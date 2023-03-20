@@ -1,6 +1,6 @@
 ---
 title: Setting up Monogame for development
-comments: false
+comments: true
 tags: 
 - Game
 - Tutorial

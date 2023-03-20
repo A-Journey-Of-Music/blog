@@ -1,6 +1,6 @@
 ---
 title: Sprite Animations
-comments: false
+comments: true
 tags: 
 - Game
 - Tutorial

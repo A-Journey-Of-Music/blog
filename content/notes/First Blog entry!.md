@@ -1,6 +1,6 @@
 ---
 title: First Blog entry
-comments: false
+comments: true
 tags: 
 - Blog
 keywords: [Games lecture, DHBW Karlsruhe, Blog, A Journey of Music, Development, Quartz template, Project management, Time tracking, Hours worked, Progress updates, Gaming industry, Video games, Music games, Game design, Game development process, Learning game development, Higher education in game design, Teamwork in game development]
