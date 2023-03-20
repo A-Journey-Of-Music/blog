@@ -13,6 +13,17 @@ enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: true
 disqusShortname: ajourneyofmusic
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: true
+    disable: true
+    respectDoNotTrack: true
+    useSessionStorage: false
+  youtube:
+    disable: false
+    privacyEnhanced: true
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
