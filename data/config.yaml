@@ -12,6 +12,7 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 enableMermaid: true
+disqusShortname: ajourneyofmusic
 search:
   enableSemanticSearch: false
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
