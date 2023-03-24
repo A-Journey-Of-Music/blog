@@ -15,7 +15,7 @@ In game development, inheritance is a fundamental concept that plays a critical 
 This article will explore the importance of code architecture in game development and delve into the role that inheritance plays in [MonoGame](https://www.monogame.net/). We will discuss the benefits of using inheritance in game development, the challenges that developers face when working with inheritance, and some best practices for using inheritance effectively in MonoGame. By the end of this article, readers will have a better understanding of why code architecture and inheritance are critical factors in game development, and how they can use these concepts to create robust, scalable, and engaging games.
 
 ## Architecture of the Game
-![](notes/images/overview.png)
+![](notes/images/overview.webp)
 
 ## Sources, we use for our development:
 - [Structure of a MonoGame-Project](https://community.monogame.net/t/how-best-to-structure-a-monogame-porject/14437/6))
