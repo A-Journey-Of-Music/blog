@@ -58,5 +58,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Sprite Animations](notes/Sprite%20Animations.md)
 - [Architecture](notes/Architecture.md)
 - [Review Number 2](notes/Review%20Number%202.md)
+- [Music choices for the POC](notes/Music%20choices%20for%20the%20POC.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).
