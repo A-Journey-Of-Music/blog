@@ -18,6 +18,6 @@ This article will explore the importance of code architecture in game developmen
 ![](notes/images/overview.png)
 
 ## Sources, we use for our development:
-- [Structure of a MonoGame-Project]([https://community.monogame.net/t/how-best-to-structure-a-monogame-porject/14437/6](https://community.monogame.net/t/how-best-to-structure-a-monogame-porject/14437/6 "https://community.monogame.net/t/how-best-to-structure-a-monogame-porject/14437/6"))
-- [GameDev-Quickie: Spritesheet-Animations]([https://www.youtube.com/watch?v=hm4PkqS2bqY&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=15](https://www.youtube.com/watch?v=hm4PkqS2bqY&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=15 "https://www.youtube.com/watch?v=hm4PkqS2bqY&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=15"))
-- [GameDev-Quickie: Parallax Background]([https://www.youtube.com/watch?v=DPyXfpd8sZo&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=17](https://www.youtube.com/watch?v=DPyXfpd8sZo&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=17 "https://www.youtube.com/watch?v=DPyXfpd8sZo&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=17"))
+- [Structure of a MonoGame-Project](https://community.monogame.net/t/how-best-to-structure-a-monogame-porject/14437/6))
+- [GameDev-Quickie: Spritesheet-Animations](https://www.youtube.com/watch?v=hm4PkqS2bqY&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=15)
+- [GameDev-Quickie: Parallax Background](https://www.youtube.com/watch?v=DPyXfpd8sZo&list=PLkEsuRhhI3ne0BcsCmwAZG-shlHyDfvKc&index=17)
