@@ -17,3 +17,6 @@ We successfully can now import `.ase` and `.aseprite` Files with the [MGCB-Edito
 We expect the first Animations to work tomorrow, after some fixing and reading the documentation :).
 
 Furthermore, we do also plan to explain the process of adding libraries to the MonoGame project.
+
+Added: For the Tilemaps, we are still in search of a capable library, because MonoGame.Extended uses features deprecated in recent MonoGame versions. 
+For our Animations, we ended up, writing the code ourself. 
