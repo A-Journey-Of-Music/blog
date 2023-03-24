@@ -14,7 +14,7 @@ Unfortunately, we've run into some issues with MonoGame's libraries - many of th
 Moving forward, here's what's on our roadmap:
 
 -   Importing and using tilemaps created with [Tiled](https://www.mapeditor.org/)
--   Implementing physics
+-   Implementing physics ([concept](notes/Movement%20and%20Game%20Mechanics.md))
 -   Building an enemy system
 -   Scaling for more levels
 -   Improving our texturing and scaling workflows, including finding the ideal resolution and implementing runtime scaling
