@@ -11,19 +11,19 @@ Creating a 2D pixel character with LibreSprite can be a fun and rewarding experi
 
 To begin, we will start with an example character that we have purchased. This character will be enlarged to 64 pixels and traced on a higher layer to create a rough outline. 
 
-![](Pasted%20image%2020230412211220.webp)
+![](/notes/images/Pasted%20image%2020230412211220.webp)
 
 From there, we will use reference images of Mozart, a member of the band Kiss, and Kollegah to identify features to incorporate into our characters. By incorporating these features, we can create unique characters that are visually interesting and recognizable.
 
-![](Pasted%20image%2020230407111909.webp)
+![](/notes/images/Pasted%20image%2020230407111909.webp)
 
 To build the characters, we will use different layers in LibreSprite. The head, weapon, torso, torso scribble layer, legs, transparent weapon layer, and transparent character layer will all be built on separate layers to ensure that each component can be edited and moved independently. The torso scribble layer is a useful tool for creating a rough sketch of the character's torso before committing to a final design.
 
 To ensure consistency in our designs, we will create a base head and incorporate it into each character. This will give the characters a cohesive look and feel, and add charm to the graphic style. Additionally, each character will have a unique weapon that fits their personality. For example, Mozart will have a violin, Kiss will have an electric guitar, and Kollegah will have a microphone.
 
-![](mozart.webp)
-![](kiss.webp)
-![](kollegah%201.webp)
+![](/notes/images/mozart.webp)
+![](/notes/images/kiss.webp)
+![](/notes/images/kollegah%201.webp)
 
 Throughout the creation process, it is important to keep in mind the overall aesthetic of the characters. Using a consistent font and design elements will help to create a cohesive and visually pleasing final product.
 
@@ -36,6 +36,6 @@ To begin creating animations, we will first create a new animation file and impo
 
 To ensure that our character moves smoothly, we need to pay close attention to the details of the animation. We must make sure that each frame is positioned correctly and that the movement of the character is natural and fluid. This may require adjusting the placement of the character's limbs or making other small tweaks to the animation.
 
-![](mozart_run.webp)
+![](/notes/images/mozart_run.webp)
 
 Creating a 2D pixel character with LibreSprite can be a fun and rewarding experience. By starting with a base character and incorporating unique features and weapons, we can create visually interesting and recognizable characters. By using different layers and keeping the overall aesthetic in mind, we can create a cohesive and polished final product. With practice and experimentation, the possibilities are endless. :)
