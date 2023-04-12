@@ -28,6 +28,7 @@ To ensure consistency in our designs, we will create a base head and incorporate
 Throughout the creation process, it is important to keep in mind the overall aesthetic of the characters. Using a consistent font and design elements will help to create a cohesive and visually pleasing final product.
 
 In addition to creating the 2D pixel characters, LibreSprite also allows you to create animations for your characters. To create animations, we study all the movements of the base character and remodel our own character to create the same fluid motion.
+
 ![](notes/images/Pasted%20image%2020230407110102.webp)
 
 The head of the character remains the same size and height throughout the animation, which serves as a recognizable feature of the game. This creates a fun and recognizable detail for players to enjoy.
