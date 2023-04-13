@@ -61,5 +61,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Music choices for the POC](notes/Music%20choices%20for%20the%20POC.md)
 - [Graphical Process](notes/Graphical%20Process.md)
 - [Addictive Patterns](notes/Addictive%20Patterns.md)
+- [Manual Level Creation](notes/Manual%20Level%20Creation.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).
