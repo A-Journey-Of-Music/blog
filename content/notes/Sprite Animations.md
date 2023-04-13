@@ -19,3 +19,6 @@ Now with the spritesheet animation classes established, we can work on physics a
 
 ## Showcase?
 [Link to Youtube-Video](https://www.youtube.com/watch?v=8Q_pfNpS3Tk)
+
+## Further Developments in this context:
+- [Graphical Process](notes/Graphical%20Process.md)

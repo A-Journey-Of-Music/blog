@@ -6,6 +6,7 @@ tags:
 - Architecture
 - Tutorial
 - Blog
+- Lecture
 keywords: [code architecture, game development, inheritance, MonoGame, functionality, performance, scalability, reusable code, best practices]
 ---
 Game development is a complex and challenging process that requires careful planning and execution. One of the key aspects of game development is code architecture, which refers to the organization and structure of the code that powers the game. Code architecture plays a crucial role in determining the game's functionality, performance, and scalability, making it essential for developers to pay close attention to it.
