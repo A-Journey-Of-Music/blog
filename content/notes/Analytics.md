@@ -20,7 +20,7 @@ For “A Journey of Music” there are a lot of ways to measure player behaviour
 #### How to present
 - A Bar Diagram of different colours to compare how the different metrics are at one moment
 
-![](notes/images/Graphs.drawio.png)
+![](notes/images/Graphs.drawio.webp)
 - A Graph in different colours for every metric to show how game popularity behaves over time
 
 ### Category 2: Game Hardness
@@ -44,5 +44,5 @@ Others have to be represented in a line-diagram, or as the arithmetic average fo
 #### How to present
 Here, a plot graph for different metrics could be made per player, and when in comparison with othe players, there could be another line graph showing the different metrics at specific levels of skill.
 
-![](notes/images/PlayerSkill.drawio.png)
+![](notes/images/PlayerSkill.drawio.webp)
 
