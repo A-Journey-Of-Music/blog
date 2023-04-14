@@ -62,5 +62,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Graphical Process](notes/Graphical%20Process.md)
 - [Addictive Patterns](notes/Addictive%20Patterns.md)
 - [Manual Level Creation](notes/Manual%20Level%20Creation.md)
+- [Analytics](notes/Analytics.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).
