@@ -34,6 +34,9 @@ We're confident that our game will provide hours of entertainment for both casua
 We want to use [Monogame](https://www.monogame.net/showcase/) as our Game Engine, as it is perfectly suitable for 2d games and has some well known titles like [Terraria](https://terraria.org/) or [Stardew Valley](https://www.stardewvalley.net/) amongst its users.
 We want our game to be highly compatible with every mainstream pc operating system (Windows, macOS, Linux) and playable by controller.
 
+> [!warning] Attention
+> Whilst, originally, we chose [Monogame](https://www.monogame.net/showcase/) to be our Game Engine of choice, we have fully transitioned to [Godot](https://godotengine.org/) as of the 22. of April. Read more about it in this article: [Fuck Monogame - Our Transition to Godot](notes/Fuck%20Monogame.md)
+
 ## Scope
 Get ready to witness the ultimate combination of music and technology! In our lecture project, we aim to create an unforgettable experience by developing 3 handcrafted levels - Classical, Rock'n Roll, and Hip Hop. But that's not all - we'll also be working on an algorithm that can analyze music and generate levels automatically.
 
@@ -63,5 +66,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Addictive Patterns](notes/Addictive%20Patterns.md)
 - [Manual Level Creation](notes/Manual%20Level%20Creation.md)
 - [Analytics](notes/Analytics.md)
+- [Fuck Monogame](notes/Fuck%20Monogame.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).
