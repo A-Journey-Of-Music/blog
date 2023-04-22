@@ -29,7 +29,7 @@ Because, we haven't got that far, there was not a lot of progress lost.
 We easily could reuse our [custom made assets](notes/Graphical%20Process.md) and could directly feel the intuitiveness of Godot, by easily creating and rendering a tile map.
 The controls, animations, and physics of the player and the world were also quickly implemented and by the end of Saturday, the 22. Of April, we overtook our previous progress with an increased development speed.
 
-![](notes/images/godot_icon.png)
+![](notes/images/godot_icon.webp)
 
 ## Recent Screen capture
 
