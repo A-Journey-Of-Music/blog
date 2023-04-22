@@ -16,6 +16,7 @@ Godot is also
 - open-source
 - cross-os-compatible
 - huge variety of input devices
+
 but has and is, in comparison to Monogame
 - a huge community
 - most functions are built-in
