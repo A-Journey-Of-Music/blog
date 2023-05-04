@@ -6,6 +6,7 @@ tags:
 - Game
 - Tutorial
 - Blog
+- Graphics
 keywords: [blogging, sprite animations, MonoGame, game framework, complete game engine, ground up, university projects, tutorials, YouTube, GameDev Quickie, spritesheet animation classes, physics, levels.]
 ---
 After a pause from blogging, we can announce, that we managed to have run our first sprite animations.
@@ -18,3 +19,6 @@ Now with the spritesheet animation classes established, we can work on physics a
 
 ## Showcase?
 [Link to Youtube-Video](https://www.youtube.com/watch?v=8Q_pfNpS3Tk)
+
+## Further Developments in this context:
+- [Graphical Process](notes/Graphical%20Process.md)
