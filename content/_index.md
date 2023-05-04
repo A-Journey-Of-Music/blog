@@ -67,5 +67,6 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Manual Level Creation](notes/Manual%20Level%20Creation.md)
 - [Analytics](notes/Analytics.md)
 - [Fuck Monogame](notes/Fuck%20Monogame.md)
+- [Process - Map Design](notes/Process%20-%20Map%20Design.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).

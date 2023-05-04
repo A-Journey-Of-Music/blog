@@ -2,6 +2,9 @@
 title: Process of map design
 comments: false
 tags:
+ - Game
+ - Blog
+ - Graphics
 keywords:
 ---
 Libre Sprite Parallax Maps are a popular way to create dynamic and immersive game environments. In this process, pre-existing maps are modified and enhanced to add depth and detail to the scene. In this post, we will discuss two examples of how we used this technique to create unique and captivating game environments.
