@@ -68,5 +68,7 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Analytics](notes/Analytics.md)
 - [Fuck Monogame](notes/Fuck%20Monogame.md)
 - [Process - Map Design](notes/Process%20-%20Map%20Design.md)
+- [What still has to be done](notes/What%20still%20has%20to%20be%20done.md)
+- [Memes](notes/Memes.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).
