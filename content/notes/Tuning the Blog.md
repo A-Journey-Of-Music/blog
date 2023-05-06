@@ -43,8 +43,8 @@ convert_images:
 	- name: Convert jpg to WebP
 		continue-on-error: true
 		run: |
-		if ls content/notes/images/*.jpg 1> /dev/null 2>&1; then
-		for file in content/notes/images/*.jpg; do
+		if ls content/notes/images/*.webp 1> /dev/null 2>&1; then
+		for file in content/notes/images/*.webp; do
 		convert "$file" "${file%.*}.webp"
 		rm "$file"
 		find content -path content/notes/.obsidian -prune -o -name '*.md' -type f -print0 | xargs -0 sed -i 's/\.\(jpg\)/.webp/g'
