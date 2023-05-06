@@ -70,5 +70,7 @@ So, whether you're a music enthusiast or a tech buff, our project has something 
 - [Process - Map Design](notes/Process%20-%20Map%20Design.md)
 - [What still has to be done](notes/What%20still%20has%20to%20be%20done.md)
 - [Memes](notes/Memes.md)
+- [Finished the test level](notes/Finished%20the%20test%20level.md)
+- [Pledge of Commitment](notes/Pledge%20of%20Commitment.md)
 
 For this project, we have to measure our time per week. You can find a central overview of our weekly work hours [here](notes/Times.md).

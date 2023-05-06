@@ -24,5 +24,5 @@ keywords: [Memes, Project Management, Management, Game, Open Source, FOSS, Game 
 
 ![](notes/images/7kkv1m.jpg)
 
-Credit, where Credit is due: Thanks to [imgflip.com](imgflip.com) for their meme creating tool.
+Credit, where Credit is due: Thanks to [imgflip.com](https://imgflip.com) for their meme creating tool.
 
